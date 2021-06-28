@@ -7,19 +7,21 @@ import Mission from './Mission';
 import FRDA from './FRDA';
 import CRISPR from './CRISPR';
 import Contact from './Contact';
+import {Link} from 'react-scroll';
 
 
 function App() {
   return (
     <div className='disabled'>
+
     <Navbar />
     <Hero/>
     <Impact />
     <Card />
     <Mission />
-    <FRDA/>
+    <FRDA />
     <CRISPR />
-    <Contact/>
+    <Contact />
       
     </div>
   );

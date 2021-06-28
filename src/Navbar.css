@@ -15,7 +15,9 @@
 .navbar-nav{
     padding-right: 100px;
 }
-
+.nav-link{
+    cursor: pointer;
+}
 .nav-item {
     margin-right: 10px;
     color: white !important;

@@ -3,7 +3,7 @@ import {ReactComponent as FirstAid} from './imgs/xray.svg';
 
 const FRDA = () => {
     return (
-        <div>
+        <div id='tech'>
             <div className='row frda-wrapper'>
             <div className='col-sm-6 '>
                 <h2 className='left-col impact-tit'>FRDA: HERE'S WHAT HAPPENS.</h2>
