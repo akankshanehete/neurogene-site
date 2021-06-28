@@ -1,0 +1,53 @@
+#particles{
+    background-image: linear-gradient(var(--dark-blue), var(--purple));
+    /* background-size: cover; */
+    z-index: -99;  
+    height: 40rem;
+}
+
+.title{
+    font-family: 'Unica One',sans-serif;
+    font-size: 4.5rem;
+}
+@media only screen and (max-width: 630px) {
+    .title {
+      font-size: 3.2rem;
+    }
+  }
+.subtitle{
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+@media only screen and (max-width: 900px) {
+    .subtitle {
+      font-size: 1.1rem;
+    }
+  }
+
+#hero-wrapper{
+    background-color: rgba(0, 0, 0, 0.5);;
+    margin-top: -28rem;
+    z-index: 3;
+    color: white;
+    font-family: 'Quicksand',sans-serif;
+    text-align: center;
+    justify-content: center;
+    position: relative;
+    padding:  1.5rem;
+    margin-left: 6rem;
+    margin-right: 6rem;
+    border-radius: 10px;
+   
+    
+    
+}
+@media only screen and (max-width: 610px) {
+    #hero-wrapper {
+        margin-left: 3rem;
+        margin-right: 3rem;
+    }
+  }
+.learn-more{
+    margin-top: 1rem;
+    font-size: 1rem !important;
+}

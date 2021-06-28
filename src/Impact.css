@@ -1,0 +1,52 @@
+.impact-wrapper{
+    
+    background-color: var(--purple);
+    color:white;
+    font-family: 'Quicksand',sans-serif;
+    padding-top: 18rem;
+    z-index: -999;
+    position: relative;
+    padding-bottom: 9rem;
+}
+
+.left-col{
+    padding-left: 3rem;
+
+}
+.para {
+    font-size: 1.2rem !important;
+}
+.impact-tit {
+    font-size: 2.2rem;
+    font-family: 'Unica One', sans-serif !important;
+}
+
+.wheelchair-img{
+    width: 70%;
+    height: auto;
+    
+    max-width : 450px;
+    justify-content: center;
+    margin-left: 3rem;
+
+}
+
+
+
+@media only screen and (max-width: 600px) {
+    .wheelchair-img{
+        width: 400px;
+        height: auto;
+        justify-content: center;
+        padding-top: 1rem;
+    
+    }
+    .left-col {
+        padding-left: 3rem;
+        padding-right: 3rem;
+        
+    }
+    .para {
+        font-size: 1rem !important;
+    }
+}

@@ -1,0 +1,33 @@
+.frda-wrapper{
+    background-color: var(--purple);
+    color:white;
+    font-family: 'Quicksand',sans-serif;
+    padding-top: 4rem;
+    
+    padding-bottom: 15rem;
+}
+
+.firstaid-img{
+    width: 80%;
+    height: auto;
+    
+    max-width : 500px;
+    justify-content: center;
+    margin-left: 4rem;
+    margin-top:-6rem;
+
+}
+
+
+
+@media only screen and (max-width: 600px) {
+    .firstaid-img{
+        margin-top: 0;
+        margin-left: 1rem;
+        margin-right: 1rem;
+        width: 95%;
+        
+    
+    }
+    
+}

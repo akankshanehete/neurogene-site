@@ -1,0 +1,48 @@
+.dna-img{
+    width: 30px;
+    height: auto;
+}
+
+.crispr{
+    margin-top: 0rem !important;
+    
+   
+}
+.doctors{
+    position: relative;
+    z-index: 999;
+}
+.wave{
+    margin-top: -16rem;
+}
+
+
+.layered-waves{
+    width: 100%;
+    height: auto;
+   
+    margin-top: -30rem !important;
+    
+}
+
+@media only screen and (max-width: 1250px) {
+    .wave{
+        margin-top: -9rem;
+    }
+
+}
+
+@media only screen and (max-width: 720px) {
+    .wave{
+        margin-top: -5rem;
+    }
+
+}
+
+
+@media only screen and (max-width: 870px) {
+    .layered-waves{
+        margin-top: -15rem !important;
+    }
+
+}

@@ -1,0 +1,22 @@
+.navbar{
+    color: white;
+    font-family: 'Quicksand',sans-serif;
+    font-weight: 500;
+}
+
+.navbar-brand {
+    padding-left: 50px;
+    font-family: 'Unica One',sans-serif;
+    font-size: 40px !important;
+}
+.navbar-toggler {
+    margin-right: 50px;
+}
+.navbar-nav{
+    padding-right: 100px;
+}
+
+.nav-item {
+    margin-right: 10px;
+    color: white !important;
+}
