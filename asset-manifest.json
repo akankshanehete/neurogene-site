@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/neurogene-site/static/css/main.6e4271e6.chunk.css",
+    "main.js": "/neurogene-site/static/js/main.12de8e58.chunk.js",
+    "main.js.map": "/neurogene-site/static/js/main.12de8e58.chunk.js.map",
+    "runtime-main.js": "/neurogene-site/static/js/runtime-main.d07eecd6.js",
+    "runtime-main.js.map": "/neurogene-site/static/js/runtime-main.d07eecd6.js.map",
+    "static/css/2.7b1c032f.chunk.css": "/neurogene-site/static/css/2.7b1c032f.chunk.css",
+    "static/js/2.af961876.chunk.js": "/neurogene-site/static/js/2.af961876.chunk.js",
+    "static/js/2.af961876.chunk.js.map": "/neurogene-site/static/js/2.af961876.chunk.js.map",
+    "index.html": "/neurogene-site/index.html",
+    "static/css/2.7b1c032f.chunk.css.map": "/neurogene-site/static/css/2.7b1c032f.chunk.css.map",
+    "static/css/main.6e4271e6.chunk.css.map": "/neurogene-site/static/css/main.6e4271e6.chunk.css.map",
+    "static/js/2.af961876.chunk.js.LICENSE.txt": "/neurogene-site/static/js/2.af961876.chunk.js.LICENSE.txt",
+    "static/media/bedpatient.98d63d7b.svg": "/neurogene-site/static/media/bedpatient.98d63d7b.svg",
+    "static/media/doctorsss.6f57181e.svg": "/neurogene-site/static/media/doctorsss.6f57181e.svg",
+    "static/media/layeredwaves.babb4df5.svg": "/neurogene-site/static/media/layeredwaves.babb4df5.svg",
+    "static/media/xray.4e362b29.svg": "/neurogene-site/static/media/xray.4e362b29.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d07eecd6.js",
+    "static/css/2.7b1c032f.chunk.css",
+    "static/js/2.af961876.chunk.js",
+    "static/css/main.6e4271e6.chunk.css",
+    "static/js/main.12de8e58.chunk.js"
+  ]
+}
